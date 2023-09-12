@@ -5,7 +5,7 @@ int main()
 	char a;
 	cout << "Hello World" <<endl;
 	cout << "Print smth: ";
-	cin << a;
+	cin >> a;
 	if (a > 0)
 		return 0;
 	else
